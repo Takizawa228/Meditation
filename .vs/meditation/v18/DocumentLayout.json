@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\\u041A\u0438\u0440\u0438\u043B\u043B\\source\\repos\\meditation\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{30725BD2-655B-41C9-93B0-39986EF8C20B}|meditation\\meditation.csproj|c:\\users\\\u043A\u0438\u0440\u0438\u043B\u043B\\source\\repos\\meditation\\meditation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{30725BD2-655B-41C9-93B0-39986EF8C20B}|meditation\\meditation.csproj|solutionrelative:meditation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{30725BD2-655B-41C9-93B0-39986EF8C20B}|meditation\\meditation.csproj|C:\\Users\\\u041A\u0438\u0440\u0438\u043B\u043B\\source\\repos\\meditation\\meditation\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{30725BD2-655B-41C9-93B0-39986EF8C20B}|meditation\\meditation.csproj|solutionrelative:meditation\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{30725BD2-655B-41C9-93B0-39986EF8C20B}|meditation\\meditation.csproj|c:\\users\\\u043A\u0438\u0440\u0438\u043B\u043B\\source\\repos\\meditation\\meditation\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30725BD2-655B-41C9-93B0-39986EF8C20B}|meditation\\meditation.csproj|solutionrelative:meditation\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{30725BD2-655B-41C9-93B0-39986EF8C20B}|meditation\\meditation.csproj|C:\\Users\\\u041A\u0438\u0440\u0438\u043B\u043B\\source\\repos\\meditation\\meditation\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{30725BD2-655B-41C9-93B0-39986EF8C20B}|meditation\\meditation.csproj|solutionrelative:meditation\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{30725BD2-655B-41C9-93B0-39986EF8C20B}|meditation\\meditation.csproj|C:\\Users\\\u041A\u0438\u0440\u0438\u043B\u043B\\source\\repos\\meditation\\meditation\\databank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{30725BD2-655B-41C9-93B0-39986EF8C20B}|meditation\\meditation.csproj|solutionrelative:meditation\\databank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{30725BD2-655B-41C9-93B0-39986EF8C20B}|meditation\\meditation.csproj|C:\\Users\\\u041A\u0438\u0440\u0438\u043B\u043B\\source\\repos\\meditation\\meditation\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{30725BD2-655B-41C9-93B0-39986EF8C20B}|meditation\\meditation.csproj|solutionrelative:meditation\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{30725BD2-655B-41C9-93B0-39986EF8C20B}|meditation\\meditation.csproj|C:\\Users\\\u041A\u0438\u0440\u0438\u043B\u043B\\source\\repos\\meditation\\meditation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{30725BD2-655B-41C9-93B0-39986EF8C20B}|meditation\\meditation.csproj|solutionrelative:meditation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30725BD2-655B-41C9-93B0-39986EF8C20B}|meditation\\meditation.csproj|C:\\Users\\\u041A\u0438\u0440\u0438\u043B\u043B\\source\\repos\\meditation\\meditation\\databank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30725BD2-655B-41C9-93B0-39986EF8C20B}|meditation\\meditation.csproj|solutionrelative:meditation\\databank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30725BD2-655B-41C9-93B0-39986EF8C20B}|meditation\\meditation.csproj|c:\\users\\\u043A\u0438\u0440\u0438\u043B\u043B\\source\\repos\\meditation\\meditation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30725BD2-655B-41C9-93B0-39986EF8C20B}|meditation\\meditation.csproj|solutionrelative:meditation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,27 +34,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{9f7fc93e-1f96-4f4b-a43f-e921e7b8ff32}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\\u041A\u0438\u0440\u0438\u043B\u043B\\source\\repos\\meditation\\meditation\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "meditation\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\\u041A\u0438\u0440\u0438\u043B\u043B\\source\\repos\\meditation\\meditation\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "meditation\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T16:31:39.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "DataBank.cs",
               "DocumentMoniker": "C:\\Users\\\u041A\u0438\u0440\u0438\u043B\u043B\\source\\repos\\meditation\\meditation\\DataBank.cs",
               "RelativeDocumentMoniker": "meditation\\DataBank.cs",
               "ToolTip": "C:\\Users\\\u041A\u0438\u0440\u0438\u043B\u043B\\source\\repos\\meditation\\meditation\\DataBank.cs",
               "RelativeToolTip": "meditation\\DataBank.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-17T14:04:29.201Z"
+              "WhenOpened": "2026-02-17T14:04:29.201Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "settings.cs",
               "DocumentMoniker": "C:\\Users\\\u041A\u0438\u0440\u0438\u043B\u043B\\source\\repos\\meditation\\meditation\\settings.cs",
               "RelativeDocumentMoniker": "meditation\\settings.cs",
@@ -58,22 +80,24 @@
               "RelativeToolTip": "meditation\\settings.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAkwBoAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-17T14:04:29.253Z"
+              "WhenOpened": "2026-02-17T14:04:29.253Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "settings.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "C:\\Users\\\u041A\u0438\u0440\u0438\u043B\u043B\\source\\repos\\meditation\\meditation\\settings.cs",
               "RelativeDocumentMoniker": "meditation\\settings.cs",
               "ToolTip": "C:\\Users\\\u041A\u0438\u0440\u0438\u043B\u043B\\source\\repos\\meditation\\meditation\\settings.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "RelativeToolTip": "meditation\\settings.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-17T14:04:29.253Z"
+              "WhenOpened": "2026-02-17T14:04:29.253Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\\u041A\u0438\u0440\u0438\u043B\u043B\\source\\repos\\meditation\\meditation\\Form1.cs",
               "RelativeDocumentMoniker": "meditation\\Form1.cs",
@@ -86,14 +110,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "C:\\Users\\\u041A\u0438\u0440\u0438\u043B\u043B\\source\\repos\\meditation\\meditation\\Form1.cs",
               "RelativeDocumentMoniker": "meditation\\Form1.cs",
               "ToolTip": "C:\\Users\\\u041A\u0438\u0440\u0438\u043B\u043B\\source\\repos\\meditation\\meditation\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "RelativeToolTip": "meditation\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-17T14:04:29.553Z"
+              "WhenOpened": "2026-02-17T14:04:29.553Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
             }
           ]
         }
